@@ -58,4 +58,4 @@ Staged Area의 파일을  Working Directory로 가져옴
 
 
 
-![Git Sheat Sheet](asset/git.jpg)
+![Git Sheat Sheet](asset/git.gif)
